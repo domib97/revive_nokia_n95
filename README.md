@@ -39,3 +39,5 @@ Revive your old S60 3rd FP1 **Nokia N95** 2GB with this guide from 2021 !
 10. install x-plore (filemanager)
 11. explore my "apps" folder for essential apps and tools
 12. install SDK for programming your own apps in **C++ (native)**, **Java ME (native)**, **QT (native)**, **Python for S60 (PyS60)**
+
+foo bar
